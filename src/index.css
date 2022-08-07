@@ -326,6 +326,10 @@ textarea {
   color: #2cc5d2;
 }
 
+.list-item.TASK_INBOX .icon-star {
+  color: #dcdcdc;
+}
+
 .list-item.TASK_ARCHIVED input[type="text"] {
   color: #a0aec0;
   text-decoration: line-through;
